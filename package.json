@@ -10,7 +10,6 @@
     "@primer/octicons-react": "^9.6.0",
     "animate.css": "^3.7.2",
     "babel-plugin-styled-components": "^1.10.7",
-    "baffle-react": "0.0.2",
     "dateformat": "^3.0.3",
     "gatsby": "^2.21.1",
     "gatsby-cli": "^4.13.0",

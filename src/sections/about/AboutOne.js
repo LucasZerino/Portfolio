@@ -1,9 +1,7 @@
 import React from 'react'
-import { Row, Col, Container } from 'react-bootstrap'
+import { Col, Container } from 'react-bootstrap'
 import styled from 'styled-components'
 import RevealContent from 'components/reveal-content'
-import Counter from 'components/counter'
-import AnimationContainer from 'components/animation-container'
 import AboutPersonal from '../about/AboutPersonal'
 import Particles from 'react-particles-js';
 import PortfolioTwo from '../portfolio/PortfolioTwo'
