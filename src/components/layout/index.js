@@ -1,5 +1,4 @@
 import React from 'react'
-import PageRevealer from 'components/page-revealer'
 import Navbar from 'components/navbar'
 import Footer from 'components/footer'
 import 'bootstrap/dist/css/bootstrap.min.css'
@@ -21,7 +20,6 @@ class Layout extends React.Component {
     return (
       <div id="main">
         <Navbar scroll={this.props.isHome ? true : false} sections={this.props.sections} />
-        <PageRevealer />
         <div>
           {children}
         </div>
